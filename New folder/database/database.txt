@@ -1,0 +1,41 @@
+-users
+*full name
+*city
+*about yourself(140 max)
+*twitter handle
+*prefered language
+*personal website
+*contact info
+*email address
+
+-notification
+*review activity
+*activity on users photos
+*if someone started following user
+
+-dineline
+*account life span
+*photos
+*followers
+*bookmarks
+
+-restaurant
+*restaurant name
+*city
+*position(owner/manager/customer)
+*std
+*phone number
+*status
+*-charactersitics
+	*alcohol
+	*seating available
+	*payment
+	*cuisines(mutliple)
+	*tags(multiple)
+	*timmings
+	*restaurant email
+	*restaurant website
+
+-subscription
+*monthly service
+

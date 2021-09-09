@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="startbootstrap-sb-admin-2-gh-pages">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/admin/startbootstrap-sb-admin-2-gh-pages.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,13 @@
+*item
+  photo
+  cuisine
+  cost
+
+*restaurant
+  restaurant name
+  brand
+  street
+  address
+  hours
+  contact
+

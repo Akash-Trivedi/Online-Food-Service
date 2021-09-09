@@ -1,0 +1,317 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/PR-SVG-20010719/DTD/svg10.dtd">
+<svg width="49cm" height="43cm" viewBox="-165 -262 979 854" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g>
+    <rect style="fill: #1c71c4" x="-140.705" y="-234.748" width="264.45" height="48"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-140.705" y="-234.748" width="264.45" height="48"/>
+    <text font-size="19.2" style="fill: #ffffff;text-anchor:middle;font-family:Times New Roman;font-style:normal;font-weight:700" x="-8.4804" y="-210.748">CUSTOMER</text>
+    <text font-size="16" style="fill: #ffffff;text-anchor:middle;font-family:Times New Roman;font-style:italic;font-weight:normal" x="-8.4804" y="-190.748">User DataBase</text>
+    <rect style="fill: #1c71c4" x="-140.705" y="-186.748" width="264.45" height="292"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-140.705" y="-186.748" width="264.45" height="292"/>
+    <polygon style="fill: #000000" points="-137.705,-173.748 -135.705,-170.748 -133.705,-173.748 -135.705,-176.748 "/>
+    <text font-size="17.6" style="fill: #ffffff;text-anchor:start;font-family:Times New Roman;font-style:normal;font-weight:normal" x="-131.705" y="-164.748">User_id</text>
+    <text font-size="17.6" style="fill: #ffffff;text-anchor:start;font-family:Times New Roman;font-style:normal;font-weight:normal" x="-14.7054" y="-164.748">Integer</text>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #ffffff" x1="-131.705" y1="-162.548" x2="35.0946" y2="-162.548"/>
+    <text font-size="16" style="fill: #ffffff;text-anchor:start;font-family:Times New Roman;font-style:italic;font-weight:normal" x="-126.705" y="-144.748">Auto_increment</text>
+    <polygon style="fill: #000000" points="-137.705,-121.748 -135.705,-118.748 -133.705,-121.748 -135.705,-124.748 "/>
+    <text font-size="17.6" style="fill: #ffffff;text-anchor:start;font-family:Times New Roman;font-style:normal;font-weight:normal" x="-131.705" y="-112.748">Contact Info</text>
+    <text font-size="17.6" style="fill: #ffffff;text-anchor:start;font-family:Times New Roman;font-style:normal;font-weight:normal" x="-14.7054" y="-112.748">string</text>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #ffffff" x1="-131.705" y1="-110.548" x2="25.3946" y2="-110.548"/>
+    <ellipse style="fill: #000000" cx="-135.705" cy="-99.748" rx="2" ry="2"/>
+    <text font-size="17.6" style="fill: #ffffff;text-anchor:start;font-family:Times New Roman;font-style:normal;font-weight:normal" x="-131.705" y="-90.748">First_name</text>
+    <text font-size="17.6" style="fill: #ffffff;text-anchor:start;font-family:Times New Roman;font-style:normal;font-weight:normal" x="-14.7054" y="-90.748">string</text>
+    <ellipse style="fill: #000000" cx="-135.705" cy="-77.748" rx="2" ry="2"/>
+    <text font-size="17.6" style="fill: #ffffff;text-anchor:start;font-family:Times New Roman;font-style:normal;font-weight:normal" x="-131.705" y="-68.748">Last_name</text>
+    <text font-size="17.6" style="fill: #ffffff;text-anchor:start;font-family:Times New Roman;font-style:normal;font-weight:normal" x="-14.7054" y="-68.748">string</text>
+    <ellipse style="fill: #000000" cx="-135.705" cy="-55.748" rx="2" ry="2"/>
+    <text font-size="17.6" style="fill: #ffffff;text-anchor:start;font-family:Times New Roman;font-style:normal;font-weight:normal" x="-131.705" y="-46.748">City</text>
+    <text font-size="17.6" style="fill: #ffffff;text-anchor:start;font-family:Times New Roman;font-style:normal;font-weight:normal" x="-14.7054" y="-46.748">string</text>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 0.2; stroke: #000000" cx="-135.705" cy="-33.748" rx="2" ry="2"/>
+    <text font-size="17.6" style="fill: #ffffff;text-anchor:start;font-family:Times New Roman;font-style:normal;font-weight:normal" x="-131.705" y="-24.748">Bio</text>
+    <text font-size="17.6" style="fill: #ffffff;text-anchor:start;font-family:Times New Roman;font-style:normal;font-weight:normal" x="-14.7054" y="-24.748">string</text>
+    <text font-size="16" style="fill: #ffffff;text-anchor:start;font-family:Times New Roman;font-style:italic;font-weight:normal" x="-126.705" y="-4.748">Bio data or some personal information</text>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 0.2; stroke: #000000" cx="-135.705" cy="18.252" rx="2" ry="2"/>
+    <text font-size="17.6" style="fill: #ffffff;text-anchor:start;font-family:Times New Roman;font-style:normal;font-weight:normal" x="-131.705" y="27.252">Twitter Handle</text>
+    <text font-size="17.6" style="fill: #ffffff;text-anchor:start;font-family:Times New Roman;font-style:normal;font-weight:normal" x="-14.7054" y="27.252">string</text>
+    <text font-size="16" style="fill: #ffffff;text-anchor:start;font-family:Times New Roman;font-style:italic;font-weight:normal" x="-126.705" y="47.252">Encrypted Twitter Id</text>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 0.2; stroke: #000000" cx="-135.705" cy="70.252" rx="2" ry="2"/>
+    <text font-size="17.6" style="fill: #ffffff;text-anchor:start;font-family:Times New Roman;font-style:normal;font-weight:normal" x="-131.705" y="79.252">Website</text>
+    <text font-size="17.6" style="fill: #ffffff;text-anchor:start;font-family:Times New Roman;font-style:normal;font-weight:normal" x="-14.7054" y="79.252">Link</text>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 0.2; stroke: #000000" cx="-135.705" cy="92.252" rx="2" ry="2"/>
+    <text font-size="17.6" style="fill: #ffffff;text-anchor:start;font-family:Times New Roman;font-style:normal;font-weight:normal" x="-131.705" y="101.252">Email Address</text>
+    <text font-size="17.6" style="fill: #ffffff;text-anchor:start;font-family:Times New Roman;font-style:normal;font-weight:normal" x="-14.7054" y="101.252">string</text>
+  </g>
+  <g>
+    <rect style="fill: #1c71c4" x="136.795" y="-235.998" width="217.1" height="48"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="136.795" y="-235.998" width="217.1" height="48"/>
+    <text font-size="19.2" style="fill: #ffffff;text-anchor:middle;font-family:Times New Roman;font-style:normal;font-weight:700" x="245.345" y="-211.998">RESTAURANT</text>
+    <text font-size="16" style="fill: #ffffff;text-anchor:middle;font-family:Times New Roman;font-style:italic;font-weight:normal" x="245.345" y="-191.998">Restaurant DataBase</text>
+    <rect style="fill: #1c71c4" x="136.795" y="-187.998" width="217.1" height="418"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="136.795" y="-187.998" width="217.1" height="418"/>
+    <polygon style="fill: #000000" points="139.795,-174.998 141.795,-171.998 143.795,-174.998 141.795,-177.998 "/>
+    <text font-size="17.6" style="fill: #ffffff;text-anchor:start;font-family:Times New Roman;font-style:normal;font-weight:normal" x="145.795" y="-165.998">Restaurant_id</text>
+    <text font-size="17.6" style="fill: #ffffff;text-anchor:start;font-family:Times New Roman;font-style:normal;font-weight:normal" x="260.345" y="-165.998">Integer</text>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #ffffff" x1="145.795" y1="-163.798" x2="310.145" y2="-163.798"/>
+    <text font-size="16" style="fill: #ffffff;text-anchor:start;font-family:Times New Roman;font-style:italic;font-weight:normal" x="150.795" y="-145.998">Auto increment</text>
+    <polygon style="fill: #000000" points="139.795,-122.998 141.795,-119.998 143.795,-122.998 141.795,-125.998 "/>
+    <text font-size="17.6" style="fill: #ffffff;text-anchor:start;font-family:Times New Roman;font-style:normal;font-weight:normal" x="145.795" y="-113.998">Contact_Info</text>
+    <text font-size="17.6" style="fill: #ffffff;text-anchor:start;font-family:Times New Roman;font-style:normal;font-weight:normal" x="260.345" y="-113.998">string</text>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #ffffff" x1="145.795" y1="-111.798" x2="300.445" y2="-111.798"/>
+    <ellipse style="fill: #000000" cx="141.795" cy="-100.998" rx="2" ry="2"/>
+    <text font-size="17.6" style="fill: #ffffff;text-anchor:start;font-family:Times New Roman;font-style:normal;font-weight:normal" x="145.795" y="-91.998">Name</text>
+    <text font-size="17.6" style="fill: #ffffff;text-anchor:start;font-family:Times New Roman;font-style:normal;font-weight:normal" x="260.345" y="-91.998">string</text>
+    <ellipse style="fill: #000000" cx="141.795" cy="-78.998" rx="2" ry="2"/>
+    <text font-size="17.6" style="fill: #ffffff;text-anchor:start;font-family:Times New Roman;font-style:normal;font-weight:normal" x="145.795" y="-69.998">City</text>
+    <text font-size="17.6" style="fill: #ffffff;text-anchor:start;font-family:Times New Roman;font-style:normal;font-weight:normal" x="260.345" y="-69.998">string</text>
+    <ellipse style="fill: #000000" cx="141.795" cy="-56.998" rx="2" ry="2"/>
+    <text font-size="17.6" style="fill: #ffffff;text-anchor:start;font-family:Times New Roman;font-style:normal;font-weight:normal" x="145.795" y="-47.998">Locality</text>
+    <text font-size="17.6" style="fill: #ffffff;text-anchor:start;font-family:Times New Roman;font-style:normal;font-weight:normal" x="260.345" y="-47.998">string</text>
+    <ellipse style="fill: #000000" cx="141.795" cy="-34.998" rx="2" ry="2"/>
+    <text font-size="17.6" style="fill: #ffffff;text-anchor:start;font-family:Times New Roman;font-style:normal;font-weight:normal" x="145.795" y="-25.998">STD</text>
+    <text font-size="17.6" style="fill: #ffffff;text-anchor:start;font-family:Times New Roman;font-style:normal;font-weight:normal" x="260.345" y="-25.998">string</text>
+    <text font-size="16" style="fill: #ffffff;text-anchor:start;font-family:Times New Roman;font-style:italic;font-weight:normal" x="150.795" y="-5.998">Pincode</text>
+    <ellipse style="fill: #000000" cx="141.795" cy="17.002" rx="2" ry="2"/>
+    <text font-size="17.6" style="fill: #ffffff;text-anchor:start;font-family:Times New Roman;font-style:normal;font-weight:normal" x="145.795" y="26.002">Status</text>
+    <text font-size="17.6" style="fill: #ffffff;text-anchor:start;font-family:Times New Roman;font-style:normal;font-weight:normal" x="260.345" y="26.002">string</text>
+    <text font-size="16" style="fill: #ffffff;text-anchor:start;font-family:Times New Roman;font-style:italic;font-weight:normal" x="150.795" y="46.002">Open or close</text>
+    <ellipse style="fill: #000000" cx="141.795" cy="69.002" rx="2" ry="2"/>
+    <text font-size="17.6" style="fill: #ffffff;text-anchor:start;font-family:Times New Roman;font-style:normal;font-weight:normal" x="145.795" y="78.002">Characteristics</text>
+    <text font-size="17.6" style="fill: #ffffff;text-anchor:start;font-family:Times New Roman;font-style:normal;font-weight:normal" x="260.345" y="78.002">string</text>
+    <text font-size="16" style="fill: #ffffff;text-anchor:start;font-family:Times New Roman;font-style:italic;font-weight:normal" x="150.795" y="98.002">facilities</text>
+    <ellipse style="fill: #000000" cx="141.795" cy="121.002" rx="2" ry="2"/>
+    <text font-size="17.6" style="fill: #ffffff;text-anchor:start;font-family:Times New Roman;font-style:normal;font-weight:normal" x="145.795" y="130.002">Timming</text>
+    <text font-size="17.6" style="fill: #ffffff;text-anchor:start;font-family:Times New Roman;font-style:normal;font-weight:normal" x="260.345" y="130.002">Time Stamp</text>
+    <text font-size="16" style="fill: #ffffff;text-anchor:start;font-family:Times New Roman;font-style:italic;font-weight:normal" x="150.795" y="150.002">opening and closing timmings</text>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 0.2; stroke: #000000" cx="141.795" cy="173.002" rx="2" ry="2"/>
+    <text font-size="17.6" style="fill: #ffffff;text-anchor:start;font-family:Times New Roman;font-style:normal;font-weight:normal" x="145.795" y="182.002">Email</text>
+    <text font-size="17.6" style="fill: #ffffff;text-anchor:start;font-family:Times New Roman;font-style:normal;font-weight:normal" x="260.345" y="182.002">string</text>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 0.2; stroke: #000000" cx="141.795" cy="195.002" rx="2" ry="2"/>
+    <text font-size="17.6" style="fill: #ffffff;text-anchor:start;font-family:Times New Roman;font-style:normal;font-weight:normal" x="145.795" y="204.002">Website</text>
+    <text font-size="17.6" style="fill: #ffffff;text-anchor:start;font-family:Times New Roman;font-style:normal;font-weight:normal" x="260.345" y="204.002">Link</text>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 0.2; stroke: #000000" cx="141.795" cy="217.002" rx="2" ry="2"/>
+  </g>
+  <g>
+    <rect style="fill: #1c71c4" x="371.294" y="326.002" width="210.2" height="48"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="371.294" y="326.002" width="210.2" height="48"/>
+    <text font-size="19.2" style="fill: #ffffff;text-anchor:middle;font-family:Times New Roman;font-style:normal;font-weight:700" x="476.394" y="350.002">FEEDBACK</text>
+    <text font-size="16" style="fill: #ffffff;text-anchor:middle;font-family:Times New Roman;font-style:italic;font-weight:normal" x="476.394" y="370.002">users Table</text>
+    <rect style="fill: #1c71c4" x="371.294" y="374.002" width="210.2" height="114"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="371.294" y="374.002" width="210.2" height="114"/>
+    <polygon style="fill: #000000" points="374.294,387.002 376.294,390.002 378.294,387.002 376.294,384.002 "/>
+    <text font-size="17.6" style="fill: #ffffff;text-anchor:start;font-family:Times New Roman;font-style:normal;font-weight:normal" x="380.294" y="396.002">Time Stamp</text>
+    <text font-size="17.6" style="fill: #ffffff;text-anchor:start;font-family:Times New Roman;font-style:normal;font-weight:normal" x="484.594" y="396.002">Date</text>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #ffffff" x1="380.294" y1="398.202" x2="517.794" y2="398.202"/>
+    <ellipse style="fill: #000000" cx="376.294" cy="409.002" rx="2" ry="2"/>
+    <text font-size="17.6" style="fill: #ffffff;text-anchor:start;font-family:Times New Roman;font-style:normal;font-weight:normal" x="380.294" y="418.002">User_id</text>
+    <text font-size="17.6" style="fill: #ffffff;text-anchor:start;font-family:Times New Roman;font-style:normal;font-weight:normal" x="484.594" y="418.002">strinIntegerg</text>
+    <ellipse style="fill: #000000" cx="376.294" cy="431.002" rx="2" ry="2"/>
+    <text font-size="17.6" style="fill: #ffffff;text-anchor:start;font-family:Times New Roman;font-style:normal;font-weight:normal" x="380.294" y="440.002">Restaurant Id</text>
+    <text font-size="17.6" style="fill: #ffffff;text-anchor:start;font-family:Times New Roman;font-style:normal;font-weight:normal" x="484.594" y="440.002">strIntegering</text>
+    <ellipse style="fill: #000000" cx="376.294" cy="453.002" rx="2" ry="2"/>
+    <text font-size="17.6" style="fill: #ffffff;text-anchor:start;font-family:Times New Roman;font-style:normal;font-weight:normal" x="380.294" y="462.002">Item_Id</text>
+    <text font-size="17.6" style="fill: #ffffff;text-anchor:start;font-family:Times New Roman;font-style:normal;font-weight:normal" x="484.594" y="462.002">Integer</text>
+    <ellipse style="fill: #000000" cx="376.294" cy="475.002" rx="2" ry="2"/>
+    <text font-size="17.6" style="fill: #ffffff;text-anchor:start;font-family:Times New Roman;font-style:normal;font-weight:normal" x="380.294" y="484.002">Feedback</text>
+    <text font-size="17.6" style="fill: #ffffff;text-anchor:start;font-family:Times New Roman;font-style:normal;font-weight:normal" x="484.594" y="484.002">string</text>
+  </g>
+  <g>
+    <rect style="fill: #1c71c4" x="370.294" y="136.002" width="232.75" height="68"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="370.294" y="136.002" width="232.75" height="68"/>
+    <text font-size="19.2" style="fill: #ffffff;text-anchor:middle;font-family:Times New Roman;font-style:normal;font-weight:700" x="486.669" y="160.002">SOCIAL</text>
+    <text font-size="16" style="fill: #ffffff;text-anchor:middle;font-family:Times New Roman;font-style:italic;font-weight:normal" x="486.669" y="180.002">photos uploaded by Customer and</text>
+    <text font-size="16" style="fill: #ffffff;text-anchor:middle;font-family:Times New Roman;font-style:italic;font-weight:normal" x="486.669" y="200.002">Restaurant.</text>
+    <rect style="fill: #1c71c4" x="370.294" y="204.002" width="232.75" height="114"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="370.294" y="204.002" width="232.75" height="114"/>
+    <polygon style="fill: #000000" points="373.294,217.002 375.294,220.002 377.294,217.002 375.294,214.002 "/>
+    <text font-size="17.6" style="fill: #ffffff;text-anchor:start;font-family:Times New Roman;font-style:normal;font-weight:normal" x="379.294" y="226.002">TimeStamp</text>
+    <text font-size="17.6" style="fill: #ffffff;text-anchor:start;font-family:Times New Roman;font-style:normal;font-weight:normal" x="487.994" y="226.002">Date</text>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #ffffff" x1="379.294" y1="228.202" x2="521.194" y2="228.202"/>
+    <ellipse style="fill: #000000" cx="375.294" cy="239.002" rx="2" ry="2"/>
+    <text font-size="17.6" style="fill: #ffffff;text-anchor:start;font-family:Times New Roman;font-style:normal;font-weight:normal" x="379.294" y="248.002">User_id</text>
+    <text font-size="17.6" style="fill: #ffffff;text-anchor:start;font-family:Times New Roman;font-style:normal;font-weight:normal" x="487.994" y="248.002">Integer</text>
+    <ellipse style="fill: #000000" cx="375.294" cy="261.002" rx="2" ry="2"/>
+    <text font-size="17.6" style="fill: #ffffff;text-anchor:start;font-family:Times New Roman;font-style:normal;font-weight:normal" x="379.294" y="270.002">Restaurant_Id</text>
+    <text font-size="17.6" style="fill: #ffffff;text-anchor:start;font-family:Times New Roman;font-style:normal;font-weight:normal" x="487.994" y="270.002">Integer</text>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 0.2; stroke: #000000" cx="375.294" cy="283.002" rx="2" ry="2"/>
+    <text font-size="17.6" style="fill: #ffffff;text-anchor:start;font-family:Times New Roman;font-style:normal;font-weight:normal" x="379.294" y="292.002">Item_id</text>
+    <text font-size="17.6" style="fill: #ffffff;text-anchor:start;font-family:Times New Roman;font-style:normal;font-weight:normal" x="487.994" y="292.002">Integer</text>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 0.2; stroke: #000000" cx="375.294" cy="305.002" rx="2" ry="2"/>
+    <text font-size="17.6" style="fill: #ffffff;text-anchor:start;font-family:Times New Roman;font-style:normal;font-weight:normal" x="379.294" y="314.002">Views</text>
+    <text font-size="17.6" style="fill: #ffffff;text-anchor:start;font-family:Times New Roman;font-style:normal;font-weight:normal" x="487.994" y="314.002">Number</text>
+  </g>
+  <g>
+    <rect style="fill: #1c71c4" x="370.044" y="-234.748" width="207.9" height="48"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="370.044" y="-234.748" width="207.9" height="48"/>
+    <text font-size="19.2" style="fill: #ffffff;text-anchor:middle;font-family:Times New Roman;font-style:normal;font-weight:700" x="473.994" y="-210.748">ORDERS</text>
+    <text font-size="16" style="fill: #ffffff;text-anchor:middle;font-family:Times New Roman;font-style:italic;font-weight:normal" x="473.994" y="-190.748">Order DataBase</text>
+    <rect style="fill: #1c71c4" x="370.044" y="-186.748" width="207.9" height="312"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="370.044" y="-186.748" width="207.9" height="312"/>
+    <polygon style="fill: #000000" points="373.044,-173.748 375.044,-170.748 377.044,-173.748 375.044,-176.748 "/>
+    <text font-size="17.6" style="fill: #ffffff;text-anchor:start;font-family:Times New Roman;font-style:normal;font-weight:normal" x="379.044" y="-164.748">Order_id</text>
+    <text font-size="17.6" style="fill: #ffffff;text-anchor:start;font-family:Times New Roman;font-style:normal;font-weight:normal" x="491.694" y="-164.748">Integer</text>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #ffffff" x1="379.044" y1="-162.548" x2="541.494" y2="-162.548"/>
+    <text font-size="16" style="fill: #ffffff;text-anchor:start;font-family:Times New Roman;font-style:italic;font-weight:normal" x="384.044" y="-144.748">Auto_increment</text>
+    <polygon style="fill: #000000" points="373.044,-121.748 375.044,-118.748 377.044,-121.748 375.044,-124.748 "/>
+    <text font-size="17.6" style="fill: #ffffff;text-anchor:start;font-family:Times New Roman;font-style:normal;font-weight:normal" x="379.044" y="-112.748">TimeStamp</text>
+    <text font-size="17.6" style="fill: #ffffff;text-anchor:start;font-family:Times New Roman;font-style:normal;font-weight:normal" x="491.694" y="-112.748">Date</text>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #ffffff" x1="379.044" y1="-110.548" x2="524.894" y2="-110.548"/>
+    <ellipse style="fill: #000000" cx="375.044" cy="-99.748" rx="2" ry="2"/>
+    <text font-size="17.6" style="fill: #ffffff;text-anchor:start;font-family:Times New Roman;font-style:normal;font-weight:normal" x="379.044" y="-90.748">User_id</text>
+    <text font-size="17.6" style="fill: #ffffff;text-anchor:start;font-family:Times New Roman;font-style:normal;font-weight:normal" x="491.694" y="-90.748">Integer</text>
+    <ellipse style="fill: #000000" cx="375.044" cy="-77.748" rx="2" ry="2"/>
+    <text font-size="17.6" style="fill: #ffffff;text-anchor:start;font-family:Times New Roman;font-style:normal;font-weight:normal" x="379.044" y="-68.748">Item_id</text>
+    <text font-size="17.6" style="fill: #ffffff;text-anchor:start;font-family:Times New Roman;font-style:normal;font-weight:normal" x="491.694" y="-68.748">Integer</text>
+    <text font-size="16" style="fill: #ffffff;text-anchor:start;font-family:Times New Roman;font-style:italic;font-weight:normal" x="384.044" y="-48.748">Can be Multiple</text>
+    <ellipse style="fill: #000000" cx="375.044" cy="-25.748" rx="2" ry="2"/>
+    <text font-size="17.6" style="fill: #ffffff;text-anchor:start;font-family:Times New Roman;font-style:normal;font-weight:normal" x="379.044" y="-16.748">City</text>
+    <text font-size="17.6" style="fill: #ffffff;text-anchor:start;font-family:Times New Roman;font-style:normal;font-weight:normal" x="491.694" y="-16.748">string</text>
+    <ellipse style="fill: #000000" cx="375.044" cy="-3.748" rx="2" ry="2"/>
+    <text font-size="17.6" style="fill: #ffffff;text-anchor:start;font-family:Times New Roman;font-style:normal;font-weight:normal" x="379.044" y="5.252">Restaurant_id</text>
+    <text font-size="17.6" style="fill: #ffffff;text-anchor:start;font-family:Times New Roman;font-style:normal;font-weight:normal" x="491.694" y="5.252">string</text>
+    <ellipse style="fill: #000000" cx="375.044" cy="18.252" rx="2" ry="2"/>
+    <text font-size="17.6" style="fill: #ffffff;text-anchor:start;font-family:Times New Roman;font-style:normal;font-weight:normal" x="379.044" y="27.252">Status</text>
+    <text font-size="17.6" style="fill: #ffffff;text-anchor:start;font-family:Times New Roman;font-style:normal;font-weight:normal" x="491.694" y="27.252">string</text>
+    <text font-size="16" style="fill: #ffffff;text-anchor:start;font-family:Times New Roman;font-style:italic;font-weight:normal" x="384.044" y="47.252">4 cases(Recieved, Processing,</text>
+    <text font-size="16" style="fill: #ffffff;text-anchor:start;font-family:Times New Roman;font-style:italic;font-weight:normal" x="384.044" y="67.252">Delivered/Canceled)</text>
+    <ellipse style="fill: #000000" cx="375.044" cy="90.252" rx="2" ry="2"/>
+    <text font-size="17.6" style="fill: #ffffff;text-anchor:start;font-family:Times New Roman;font-style:normal;font-weight:normal" x="379.044" y="99.252">Item_Quantity</text>
+    <text font-size="17.6" style="fill: #ffffff;text-anchor:start;font-family:Times New Roman;font-style:normal;font-weight:normal" x="491.694" y="99.252">Integer</text>
+    <ellipse style="fill: #000000" cx="375.044" cy="112.252" rx="2" ry="2"/>
+    <text font-size="17.6" style="fill: #ffffff;text-anchor:start;font-family:Times New Roman;font-style:normal;font-weight:normal" x="379.044" y="121.252">Grand Total</text>
+    <text font-size="17.6" style="fill: #ffffff;text-anchor:start;font-family:Times New Roman;font-style:normal;font-weight:normal" x="491.694" y="121.252">Integer</text>
+  </g>
+  <g>
+    <rect style="fill: #1c71c4" x="-140.705" y="126.052" width="264.45" height="48"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-140.705" y="126.052" width="264.45" height="48"/>
+    <text font-size="19.2" style="fill: #ffffff;text-anchor:middle;font-family:Times New Roman;font-style:normal;font-weight:700" x="-8.4804" y="150.052">DELIVERER</text>
+    <text font-size="16" style="fill: #ffffff;text-anchor:middle;font-family:Times New Roman;font-style:italic;font-weight:normal" x="-8.4804" y="170.052">Delivery DataBase</text>
+    <rect style="fill: #1c71c4" x="-140.705" y="174.052" width="264.45" height="262"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-140.705" y="174.052" width="264.45" height="262"/>
+    <polygon style="fill: #000000" points="-137.705,187.052 -135.705,190.052 -133.705,187.052 -135.705,184.052 "/>
+    <text font-size="17.6" style="fill: #ffffff;text-anchor:start;font-family:Times New Roman;font-style:normal;font-weight:normal" x="-131.705" y="196.052">Deliverer_id</text>
+    <text font-size="17.6" style="fill: #ffffff;text-anchor:start;font-family:Times New Roman;font-style:normal;font-weight:normal" x="-17.6054" y="196.052">Integer</text>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #ffffff" x1="-131.705" y1="198.252" x2="32.1946" y2="198.252"/>
+    <text font-size="16" style="fill: #ffffff;text-anchor:start;font-family:Times New Roman;font-style:italic;font-weight:normal" x="-126.705" y="216.052">Auto Increment</text>
+    <polygon style="fill: #000000" points="-137.705,239.052 -135.705,242.052 -133.705,239.052 -135.705,236.052 "/>
+    <text font-size="17.6" style="fill: #ffffff;text-anchor:start;font-family:Times New Roman;font-style:normal;font-weight:normal" x="-131.705" y="248.052">Contact Info</text>
+    <text font-size="17.6" style="fill: #ffffff;text-anchor:start;font-family:Times New Roman;font-style:normal;font-weight:normal" x="-17.6054" y="248.052">string</text>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #ffffff" x1="-131.705" y1="250.252" x2="22.4946" y2="250.252"/>
+    <polygon style="fill: #000000" points="-137.705,261.052 -135.705,264.052 -133.705,261.052 -135.705,258.052 "/>
+    <text font-size="17.6" style="fill: #ffffff;text-anchor:start;font-family:Times New Roman;font-style:normal;font-weight:normal" x="-131.705" y="270.052">Profile Photo</text>
+    <text font-size="17.6" style="fill: #ffffff;text-anchor:start;font-family:Times New Roman;font-style:normal;font-weight:normal" x="-17.6054" y="270.052">Blob</text>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #ffffff" x1="-131.705" y1="272.252" x2="16.6446" y2="272.252"/>
+    <polygon style="fill: #000000" points="-137.705,283.052 -135.705,286.052 -133.705,283.052 -135.705,280.052 "/>
+    <text font-size="17.6" style="fill: #ffffff;text-anchor:start;font-family:Times New Roman;font-style:normal;font-weight:normal" x="-131.705" y="292.052">Email Address</text>
+    <text font-size="17.6" style="fill: #ffffff;text-anchor:start;font-family:Times New Roman;font-style:normal;font-weight:normal" x="-17.6054" y="292.052">string</text>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #ffffff" x1="-131.705" y1="294.252" x2="22.4946" y2="294.252"/>
+    <ellipse style="fill: #000000" cx="-135.705" cy="305.052" rx="2" ry="2"/>
+    <text font-size="17.6" style="fill: #ffffff;text-anchor:start;font-family:Times New Roman;font-style:normal;font-weight:normal" x="-131.705" y="314.052">First_name</text>
+    <text font-size="17.6" style="fill: #ffffff;text-anchor:start;font-family:Times New Roman;font-style:normal;font-weight:normal" x="-17.6054" y="314.052">string</text>
+    <ellipse style="fill: #000000" cx="-135.705" cy="327.052" rx="2" ry="2"/>
+    <text font-size="17.6" style="fill: #ffffff;text-anchor:start;font-family:Times New Roman;font-style:normal;font-weight:normal" x="-131.705" y="336.052">Last_name</text>
+    <text font-size="17.6" style="fill: #ffffff;text-anchor:start;font-family:Times New Roman;font-style:normal;font-weight:normal" x="-17.6054" y="336.052">string</text>
+    <ellipse style="fill: #000000" cx="-135.705" cy="349.052" rx="2" ry="2"/>
+    <text font-size="17.6" style="fill: #ffffff;text-anchor:start;font-family:Times New Roman;font-style:normal;font-weight:normal" x="-131.705" y="358.052">City</text>
+    <text font-size="17.6" style="fill: #ffffff;text-anchor:start;font-family:Times New Roman;font-style:normal;font-weight:normal" x="-17.6054" y="358.052">string</text>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 0.2; stroke: #000000" cx="-135.705" cy="371.052" rx="2" ry="2"/>
+    <text font-size="17.6" style="fill: #ffffff;text-anchor:start;font-family:Times New Roman;font-style:normal;font-weight:normal" x="-131.705" y="380.052">Bio</text>
+    <text font-size="17.6" style="fill: #ffffff;text-anchor:start;font-family:Times New Roman;font-style:normal;font-weight:normal" x="-17.6054" y="380.052">string</text>
+    <text font-size="16" style="fill: #ffffff;text-anchor:start;font-family:Times New Roman;font-style:italic;font-weight:normal" x="-126.705" y="400.052">Bio data or some personal information</text>
+    <ellipse style="fill: #000000" cx="-135.705" cy="423.052" rx="2" ry="2"/>
+    <text font-size="17.6" style="fill: #ffffff;text-anchor:start;font-family:Times New Roman;font-style:normal;font-weight:normal" x="-131.705" y="432.052">Gender</text>
+    <text font-size="17.6" style="fill: #ffffff;text-anchor:start;font-family:Times New Roman;font-style:normal;font-weight:normal" x="-17.6054" y="432.052">string</text>
+  </g>
+  <g>
+    <rect style="fill: #1c71c4" x="591.544" y="-234.448" width="163.8" height="48"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="591.544" y="-234.448" width="163.8" height="48"/>
+    <text font-size="19.2" style="fill: #ffffff;text-anchor:middle;font-family:Times New Roman;font-style:normal;font-weight:700" x="673.444" y="-210.448">ITEMS</text>
+    <text font-size="16" style="fill: #ffffff;text-anchor:middle;font-family:Times New Roman;font-style:italic;font-weight:normal" x="673.444" y="-190.448">Item DataBase</text>
+    <rect style="fill: #1c71c4" x="591.544" y="-186.448" width="163.8" height="122"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="591.544" y="-186.448" width="163.8" height="122"/>
+    <polygon style="fill: #000000" points="594.544,-173.448 596.544,-170.448 598.544,-173.448 596.544,-176.448 "/>
+    <text font-size="17.6" style="fill: #ffffff;text-anchor:start;font-family:Times New Roman;font-style:normal;font-weight:normal" x="600.544" y="-164.448">Item_id</text>
+    <text font-size="17.6" style="fill: #ffffff;text-anchor:start;font-family:Times New Roman;font-style:normal;font-weight:normal" x="698.544" y="-164.448">Integer</text>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #ffffff" x1="600.544" y1="-162.248" x2="748.344" y2="-162.248"/>
+    <text font-size="16" style="fill: #ffffff;text-anchor:start;font-family:Times New Roman;font-style:italic;font-weight:normal" x="605.544" y="-144.448">Auto_increment</text>
+    <ellipse style="fill: #000000" cx="596.544" cy="-121.448" rx="2" ry="2"/>
+    <text font-size="17.6" style="fill: #ffffff;text-anchor:start;font-family:Times New Roman;font-style:normal;font-weight:normal" x="600.544" y="-112.448">Item_Cat_id</text>
+    <text font-size="17.6" style="fill: #ffffff;text-anchor:start;font-family:Times New Roman;font-style:normal;font-weight:normal" x="698.544" y="-112.448">Integer</text>
+    <ellipse style="fill: #000000" cx="596.544" cy="-99.448" rx="2" ry="2"/>
+    <text font-size="17.6" style="fill: #ffffff;text-anchor:start;font-family:Times New Roman;font-style:normal;font-weight:normal" x="600.544" y="-90.448">Item Price</text>
+    <text font-size="17.6" style="fill: #ffffff;text-anchor:start;font-family:Times New Roman;font-style:normal;font-weight:normal" x="698.544" y="-90.448">Integer</text>
+    <ellipse style="fill: #000000" cx="596.544" cy="-77.448" rx="2" ry="2"/>
+    <text font-size="17.6" style="fill: #ffffff;text-anchor:start;font-family:Times New Roman;font-style:normal;font-weight:normal" x="600.544" y="-68.448">Cuisine_id</text>
+    <text font-size="17.6" style="fill: #ffffff;text-anchor:start;font-family:Times New Roman;font-style:normal;font-weight:normal" x="698.544" y="-68.448">string</text>
+  </g>
+  <g>
+    <rect style="fill: #1c71c4" x="136.295" y="246.802" width="207.9" height="48"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="136.295" y="246.802" width="207.9" height="48"/>
+    <text font-size="19.2" style="fill: #ffffff;text-anchor:middle;font-family:Times New Roman;font-style:normal;font-weight:700" x="240.245" y="270.802">CATEGORIES</text>
+    <text font-size="16" style="fill: #ffffff;text-anchor:middle;font-family:Times New Roman;font-style:italic;font-weight:normal" x="240.245" y="290.802">Categories DataBase</text>
+    <rect style="fill: #1c71c4" x="136.295" y="294.802" width="207.9" height="238"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="136.295" y="294.802" width="207.9" height="238"/>
+    <polygon style="fill: #000000" points="139.295,307.802 141.295,310.802 143.295,307.802 141.295,304.802 "/>
+    <text font-size="17.6" style="fill: #ffffff;text-anchor:start;font-family:Times New Roman;font-style:normal;font-weight:normal" x="145.295" y="316.802">Item_id</text>
+    <text font-size="17.6" style="fill: #ffffff;text-anchor:start;font-family:Times New Roman;font-style:normal;font-weight:normal" x="253.045" y="316.802">Integer</text>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #ffffff" x1="145.295" y1="319.002" x2="302.845" y2="319.002"/>
+    <text font-size="16" style="fill: #ffffff;text-anchor:start;font-family:Times New Roman;font-style:italic;font-weight:normal" x="150.295" y="336.802">Auto_increment</text>
+    <ellipse style="fill: #000000" cx="141.295" cy="359.802" rx="2" ry="2"/>
+    <text font-size="17.6" style="fill: #ffffff;text-anchor:start;font-family:Times New Roman;font-style:normal;font-weight:normal" x="145.295" y="368.802">Item_Cat_id</text>
+    <text font-size="17.6" style="fill: #ffffff;text-anchor:start;font-family:Times New Roman;font-style:normal;font-weight:normal" x="253.045" y="368.802">string</text>
+    <ellipse style="fill: #000000" cx="141.295" cy="381.802" rx="2" ry="2"/>
+    <text font-size="17.6" style="fill: #ffffff;text-anchor:start;font-family:Times New Roman;font-style:normal;font-weight:normal" x="145.295" y="390.802">Item_id</text>
+    <text font-size="17.6" style="fill: #ffffff;text-anchor:start;font-family:Times New Roman;font-style:normal;font-weight:normal" x="253.045" y="390.802">string</text>
+    <ellipse style="fill: #000000" cx="141.295" cy="403.802" rx="2" ry="2"/>
+    <text font-size="17.6" style="fill: #ffffff;text-anchor:start;font-family:Times New Roman;font-style:normal;font-weight:normal" x="145.295" y="412.802">City</text>
+    <text font-size="17.6" style="fill: #ffffff;text-anchor:start;font-family:Times New Roman;font-style:normal;font-weight:normal" x="253.045" y="412.802">string</text>
+    <ellipse style="fill: #000000" cx="141.295" cy="425.802" rx="2" ry="2"/>
+    <text font-size="17.6" style="fill: #ffffff;text-anchor:start;font-family:Times New Roman;font-style:normal;font-weight:normal" x="145.295" y="434.802">Restaurant_id</text>
+    <text font-size="17.6" style="fill: #ffffff;text-anchor:start;font-family:Times New Roman;font-style:normal;font-weight:normal" x="253.045" y="434.802">string</text>
+    <ellipse style="fill: #000000" cx="141.295" cy="447.802" rx="2" ry="2"/>
+    <text font-size="17.6" style="fill: #ffffff;text-anchor:start;font-family:Times New Roman;font-style:normal;font-weight:normal" x="145.295" y="456.802">Item_cat_id</text>
+    <text font-size="17.6" style="fill: #ffffff;text-anchor:start;font-family:Times New Roman;font-style:normal;font-weight:normal" x="253.045" y="456.802">string</text>
+    <ellipse style="fill: #000000" cx="141.295" cy="469.802" rx="2" ry="2"/>
+    <text font-size="17.6" style="fill: #ffffff;text-anchor:start;font-family:Times New Roman;font-style:normal;font-weight:normal" x="145.295" y="478.802">Status</text>
+    <text font-size="17.6" style="fill: #ffffff;text-anchor:start;font-family:Times New Roman;font-style:normal;font-weight:normal" x="253.045" y="478.802">string</text>
+    <text font-size="16" style="fill: #ffffff;text-anchor:start;font-family:Times New Roman;font-style:italic;font-weight:normal" x="150.295" y="498.802">4 cases(Recieved, Processing,</text>
+    <text font-size="16" style="fill: #ffffff;text-anchor:start;font-family:Times New Roman;font-style:italic;font-weight:normal" x="150.295" y="518.802">Delivered/Canceled)</text>
+  </g>
+  <g>
+    <rect style="fill: #1c71c4" x="-61.9554" y="447.552" width="186.7" height="48"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-61.9554" y="447.552" width="186.7" height="48"/>
+    <text font-size="19.2" style="fill: #ffffff;text-anchor:middle;font-family:Times New Roman;font-style:normal;font-weight:700" x="31.3946" y="471.552">ITEM CATEGORY</text>
+    <text font-size="16" style="fill: #ffffff;text-anchor:middle;font-family:Times New Roman;font-style:italic;font-weight:normal" x="31.3946" y="491.552">CATEGORY DataBase</text>
+    <rect style="fill: #1c71c4" x="-61.9554" y="495.552" width="186.7" height="70"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-61.9554" y="495.552" width="186.7" height="70"/>
+    <polygon style="fill: #000000" points="-58.9554,508.552 -56.9554,511.552 -54.9554,508.552 -56.9554,505.552 "/>
+    <text font-size="17.6" style="fill: #ffffff;text-anchor:start;font-family:Times New Roman;font-style:normal;font-weight:normal" x="-52.9554" y="517.552">Item_Cat_id</text>
+    <text font-size="17.6" style="fill: #ffffff;text-anchor:start;font-family:Times New Roman;font-style:normal;font-weight:normal" x="67.9446" y="517.552">Integer</text>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #ffffff" x1="-52.9554" y1="519.752" x2="117.745" y2="519.752"/>
+    <ellipse style="fill: #000000" cx="-56.9554" cy="530.552" rx="2" ry="2"/>
+    <text font-size="17.6" style="fill: #ffffff;text-anchor:start;font-family:Times New Roman;font-style:normal;font-weight:normal" x="-52.9554" y="539.552">Cuisine_id</text>
+    <text font-size="17.6" style="fill: #ffffff;text-anchor:start;font-family:Times New Roman;font-style:normal;font-weight:normal" x="67.9446" y="539.552">Integer</text>
+    <ellipse style="fill: #000000" cx="-56.9554" cy="552.552" rx="2" ry="2"/>
+    <text font-size="17.6" style="fill: #ffffff;text-anchor:start;font-family:Times New Roman;font-style:normal;font-weight:normal" x="-52.9554" y="561.552">Category Name</text>
+    <text font-size="17.6" style="fill: #ffffff;text-anchor:start;font-family:Times New Roman;font-style:normal;font-weight:normal" x="67.9446" y="561.552">string</text>
+  </g>
+  <g>
+    <rect style="fill: #1c71c4" x="590.794" y="-54.448" width="176" height="48"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="590.794" y="-54.448" width="176" height="48"/>
+    <text font-size="19.2" style="fill: #ffffff;text-anchor:middle;font-family:Times New Roman;font-style:normal;font-weight:700" x="678.794" y="-30.448">CUISINE</text>
+    <text font-size="16" style="fill: #ffffff;text-anchor:middle;font-family:Times New Roman;font-style:italic;font-weight:normal" x="678.794" y="-10.448">CATEGORY DataBase</text>
+    <rect style="fill: #1c71c4" x="590.794" y="-6.448" width="176" height="100"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="590.794" y="-6.448" width="176" height="100"/>
+    <polygon style="fill: #000000" points="593.794,6.552 595.794,9.552 597.794,6.552 595.794,3.552 "/>
+    <text font-size="17.6" style="fill: #ffffff;text-anchor:start;font-family:Times New Roman;font-style:normal;font-weight:normal" x="599.794" y="15.552">Cuisine_id</text>
+    <text font-size="17.6" style="fill: #ffffff;text-anchor:start;font-family:Times New Roman;font-style:normal;font-weight:normal" x="709.994" y="15.552">Integer</text>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #ffffff" x1="599.794" y1="17.752" x2="759.794" y2="17.752"/>
+    <text font-size="16" style="fill: #ffffff;text-anchor:start;font-family:Times New Roman;font-style:italic;font-weight:normal" x="604.794" y="35.552">AutoIncrement</text>
+    <ellipse style="fill: #000000" cx="595.794" cy="58.552" rx="2" ry="2"/>
+    <text font-size="17.6" style="fill: #ffffff;text-anchor:start;font-family:Times New Roman;font-style:normal;font-weight:normal" x="599.794" y="67.552">Cuisine Name</text>
+    <text font-size="17.6" style="fill: #ffffff;text-anchor:start;font-family:Times New Roman;font-style:normal;font-weight:normal" x="709.994" y="67.552">string</text>
+    <ellipse style="fill: #000000" cx="595.794" cy="80.552" rx="2" ry="2"/>
+    <text font-size="17.6" style="fill: #ffffff;text-anchor:start;font-family:Times New Roman;font-style:normal;font-weight:normal" x="599.794" y="89.552">Country</text>
+    <text font-size="17.6" style="fill: #ffffff;text-anchor:start;font-family:Times New Roman;font-style:normal;font-weight:normal" x="709.994" y="89.552">string</text>
+  </g>
+  <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-163.951" y="-260.796" width="976.885" height="851.577"/>
+</svg>

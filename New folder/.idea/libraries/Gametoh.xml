@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gametoh">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/colorlib-search-10.zip!/" />
+      <root url="jar://$PROJECT_DIR$/bootstrap-4.0.0-dist.zip!/" />
+      <root url="jar://$PROJECT_DIR$/zomato.csv.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
